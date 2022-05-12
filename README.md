@@ -1,4 +1,7 @@
-# Roadmap público da EZ 🇧🇷
+# Roadmap público da EZ
+
+Versão em pt-BR 🇧🇷
+
 **Vem ajudar a gente a construir o futuro das carreiras de tecnologia e das relações de trabalho?**
 
 Aqui você vai encontrar tudo o que precisa saber para contribuir com essas iniciativas. 
