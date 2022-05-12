@@ -25,6 +25,11 @@ Utilizamos tags para melhor identificação de qual área do produto pertence aq
 - **Community:** Itens orientados a comunidade. Por exemplo integração da plataforma da EZ com o Discord.
 - **Financial Services:** Itens orientados a serviços financeiros para talentos. Por exemplo recebimento de remessas estrangeiras.  
 
+## Outras tags
+- **Data-science:** Itens que precisam do time de data-science envolvido;
+- **Needs-vote:** Itens que precisam de votação ou discussão para avançar;
+- **Needs-specification:** Itens que precisam de mais especificação para avançar.
+
 ## Como você pode participar
 
 - **Novas ideias:** Vamos amar ver suas ideias para o ecossistema. Você pode contribuir ~~[TODO: Pensar como fazer.]~~
