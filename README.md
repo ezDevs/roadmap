@@ -33,8 +33,8 @@ Utilizamos tags para melhor identificação de qual área do produto pertence aq
 - **Needs-vote:** Itens que precisam de votação ou discussão para avançar;
 - **Needs-specification:** Itens que precisam de mais especificação para avançar.
 
-## Como você pode participar
+## Como você pode participar [WIP]
 
-- **Novas ideias:** Vamos amar ver suas ideias para o ecossistema. Você pode contribuir ~~[TODO: Pensar como fazer.]~~
+- **Novas ideias:** Vamos amar ver suas ideias para o ecossistema. Você pode contribuir
 - **Contribuir com ideias já levantadas:** Fique à vontade para comentar nos itens já levantados no roadmap. Vamos adorar ouvir sua opinião sobre o que estamos construindo.
 - **Votar em ideias já levantadas:** Se você gostou muito de algum item reaja com um ❤️ ou 👍 na issue que vamos priorizar.
