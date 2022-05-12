@@ -1,9 +1,10 @@
-# Roadmap público da EZ
-A nossa missão é fornecer a infraestrutura para que talentos de tecnologia consigam tirar o máximo de suas carreiras. Então nada mais justo do que construir isso junto com a comunidade.
+# Roadmap público da EZ 🇧🇷
+**Vem ajudar a gente a construir o futuro das carreiras de tecnologia e das relações de trabalho?**
 
-Aqui você vai encontrar o nosso roadmap para que consiga assim, contribuir e ajudar em como mudamos o cenário de tecnologia no mundo todo.
+Aqui você vai encontrar tudo o que precisa saber para contribuir com essas iniciativas. 
 
-**Contamos com sua ajuda!** 
+#VemComAEZ
+
 
 [Você pode acessar o roadmap aqui.](https://github.com/orgs/ezDevs/projects/1)
 
