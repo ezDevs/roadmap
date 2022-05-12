@@ -1,6 +1,6 @@
 # Roadmap público da EZ
-
-Versão em pt-BR 🇧🇷
+[
+English version here.](https://github.com/ezDevs/roadmap/blob/main/README.en.md)
 
 **Vem ajudar a gente a construir o futuro das carreiras de tecnologia e das relações de trabalho?**
 
