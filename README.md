@@ -35,6 +35,6 @@ Utilizamos tags para melhor identificação de qual área do produto pertence aq
 
 ## Como você pode participar [WIP]
 
-- **Novas ideias:** Vamos amar ver suas ideias para o ecossistema. Você pode contribuir
-- **Contribuir com ideias já levantadas:** Fique à vontade para comentar nos itens já levantados no roadmap. Vamos adorar ouvir sua opinião sobre o que estamos construindo.
+- **Novas ideias:** Vamos amar ver suas ideias para o ecossistema. Você pode contribuir através do canal #produto na nossa comunidade no Discord.
+- **Contribuir com ideias já levantadas:** Fique à vontade para comentar nos itens já levantados no roadmap. Vamos adorar ouvir sua opinião sobre o que estamos construindo. Pra isso, é só comentar nas issues que discutimos por lá.
 - **Votar em ideias já levantadas:** Se você gostou muito de algum item reaja com um ❤️ ou 👍 na issue que vamos priorizar.
