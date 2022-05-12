@@ -8,7 +8,6 @@ Aqui você vai encontrar tudo o que precisa saber para contribuir com essas inic
 
 #VemComAEZ
 
-
 [Você pode acessar o roadmap aqui.](https://github.com/orgs/ezDevs/projects/1)
 
 # Como entender roadmap
@@ -16,17 +15,18 @@ Aqui você vai encontrar tudo o que precisa saber para contribuir com essas inic
 ## Status
 O roadmap está separado em 3 status principais.  Sendo eles:
 
+ - **Ideas:** Aqui os itens são apenas ideias, as vezes só com o título, necessitam de mais informações para irem para a próxima etapa; 
+ - **Future:** Aqui os itens já tem mais informações do que queremos construir mas ainda estão em fase de descoberta com o time da EZ e a comunidade. Podem ou não ser implementadas;
+ - **Soon:** São itens que já sabemos que queremos entregar mas ainda estamos entendendo melhor como entregar da melhor maneira;
  - **In progress:** São itens que já estão sendo endereçados. Ou seja já está no backlog do nosso time de produto & engenharia e já temos uma noção de quando vai pro ar.
- - **Soon:** São itens que estamos em fase de aprofundamento. Entendendo melhor como podemos entregar e em validação com a comunidade e time interno.
- - **Future:** Itens que estão em fase de descoberta, na prática são ideias que podem ou não ser implementadas.
+
 
 ## Áreas do produto
 Utilizamos tags para melhor identificação de qual área do produto pertence aquele item. Temos as seguintes áreas:
 
-- **Career:** Itens orientados a área de carreira da plataforma. Por exemplo funcionalidades relacionadas a processo seletivo.
+- **Career:** Itens orientados a área de carreira da plataforma. Geralmente funcionalidades relacionadas a processo seletivo, página de carreiras e entre outros;
 - **Education:** Itens orientados a educação e conteúdo para os talentos. Por exemplo integração com plataforma de cursos/conteúdos.
-- **Community:** Itens orientados a comunidade. Por exemplo integração da plataforma da EZ com o Discord.
-- **Financial Services:** Itens orientados a serviços financeiros para talentos. Por exemplo recebimento de remessas estrangeiras.  
+- **Community:** Itens orientados a comunidade. Por exemplo integração da plataforma da EZ com o Discord ou mentorias.
 
 ## Outras tags
 - **Data-science:** Itens que precisam do time de data-science envolvido;
