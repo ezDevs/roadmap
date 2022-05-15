@@ -13,7 +13,7 @@ Aqui você vai encontrar tudo o que precisa saber para contribuir com essas inic
 # Como entender roadmap
 
 ## Status
-O roadmap está separado em 3 status principais.  Sendo eles:
+O roadmap está separado em 4 status principais.  Sendo eles:
 
  - **Ideas:** Aqui os itens são apenas ideias, as vezes só com o título, necessitam de mais informações para irem para a próxima etapa; 
  - **Future:** Aqui os itens já tem mais informações do que queremos construir mas ainda estão em fase de descoberta com o time da EZ e a comunidade. Podem ou não ser implementadas;
