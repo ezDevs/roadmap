@@ -27,6 +27,7 @@ Utilizamos tags para melhor identificação de qual área do produto pertence aq
 - **career-product:** Itens orientados a área de carreira da plataforma. Geralmente funcionalidades relacionadas a processo seletivo, página de carreiras e entre outros;
 - **education-product:** Itens orientados a educação e conteúdo para os talentos. Por exemplo integração com plataforma de cursos/conteúdos.
 - **community-product:** Itens orientados a comunidade. Por exemplo integração da plataforma da EZ com o Discord ou mentorias.
+- **ezcoin-product:** Itens orientados as moedas. 
 
 ## Outras tags
 - **Data-science:** Itens que precisam do time de data-science envolvido;
